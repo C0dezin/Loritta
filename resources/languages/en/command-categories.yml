@@ -29,7 +29,7 @@ commands:
         - "Commands related to Pokémon."
     undertale:
       description:
-        - "You're gonna have a bad time."
+        - ""
         - "Commands related to Toby Fox's two gaming masterpieces: Undertale and DELTARUNE!"
     roblox:
       description:
@@ -42,7 +42,7 @@ commands:
         - "Commands related to Discord, the best chatting social network ever created!"
     fortnite:
       description:
-        - "Where are we dropping boys and girls?"
+        - ""
         - "Fortnite-related commands, so you can stay informed about the store, stats, and trivia while waiting for the battle bus to take off!"
     misc:
       name: "Miscellaneous"
