@@ -40,6 +40,7 @@ channel:
 role:
   label: "role"
   info:
+    members: "Members"
     description: "Shows the information of an server's role"
     mention: "Mention"
     roleId: "Role ID"
