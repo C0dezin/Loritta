@@ -2,3 +2,5 @@ buy:
   label: "buy"
 view:
   label: "view"
+give:
+  acceptTransfer: "Accept Transfer"
