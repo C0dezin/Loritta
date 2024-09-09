@@ -7,5 +7,3 @@ falatron:
       text: "The voice that will speak the provided text"
     text:
       text: "The text that will be spoken"
-board:
-  description: "Play sound effects on a Voice Channel"
