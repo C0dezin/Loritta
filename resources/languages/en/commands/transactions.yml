@@ -64,8 +64,6 @@ types:
   sparklyPowerLsx:
     title: "SparklyPower Sonhos Exchange"
     description: "Transactions related to SparklyPower, Loritta's Minecraft Server"
-    exchangedToSparklyPower: "Exchanged {sonhosQuantity,plural, =0 {# sonhos} one {# sonho} other {# sonhos}} from Loritta to `{playerName}`'s account on SparklyPower, receiving {sparklyPowerSonhosQuantity, plural, one {# sonho} other {# sonhos}} there [{sparklyPowerIp}]"
-    exchangedFromSparklyPower: "Exchanged {sparklyPowerSonhosQuantity,plural, =0 {# sonhos} one {# sonho} other {# sonhos}} from `{playerName}`'s account on SparklyPower to Loritta, receiving {sonhosQuantity, plural, one {# sonho} other {# sonhos}} here [{sparklyPowerIp}]"
   sonhosBundlePurchase:
     title: "Sonhos Bundle Purchase"
     description: "Transactions related to sonhos purchases"
